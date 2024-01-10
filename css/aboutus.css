@@ -35,3 +35,17 @@ textarea {
   height: 110px;
   resize: none;
 }
+main .container {
+  display: flex !important;
+  flex-direction: column;
+  gap: 37px;
+}
+
+section {
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 10px 5px;
+}
+main {
+  padding: 40px 0;
+}
